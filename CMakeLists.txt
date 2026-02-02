@@ -4,4 +4,4 @@ project(InventoryManagement)
 
  
 # Create the executable
-add_executable(InventoryManagement main.cpp)
+add_executable(InventoryManagement main.cpp linkedlist.hpp linkedlist.cpp)
